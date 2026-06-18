@@ -1,0 +1,5 @@
+﻿  Source1.cpp
+  final.cpp
+C:\Users\aa\Desktop\SAM\SAM\final.cpp(453,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  SAM.vcxproj -> C:\Users\aa\Desktop\SAM\x64\Debug\SAM.exe
